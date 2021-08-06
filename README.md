@@ -1,4 +1,5 @@
 # Draft Wiki for Grassroots Mobile Survey App
+* See [summary of changes](./wiki-draft-readme.md)
 
 (**TODO** Add screenshot with three panels: Login page | Filled-in example survey | Survey list with sync button )
 
